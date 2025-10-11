@@ -1,3 +1,4 @@
+#সিরিজের যোগফল
 n = int(input("Enter the number to calculate Factorial: "))
 if(n < 0 ):
     print("Negative numbers are not allowed")
